@@ -1,0 +1,1 @@
+killall -9 /data/lxj/miniconda3/envs/lt/bin/python
